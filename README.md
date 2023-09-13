@@ -18,3 +18,5 @@ update your BIOS
 if these doesn't help then:
 
 Install Dell power Manager and head over thermal Management and click "quite" option and should be fix the problem on you're dell laptop
+
+Sometimes The issue could be heatSink. Try to place new one:)
